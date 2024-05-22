@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="email">Email : 20210810157@uniku.ac.id</string>
+    <string name="nama">Nama : Alya Naomi</string>
+
+    <string-array name="data_name">
+        <item>Ayam Spesial </item>
+        <item>Bihun Komplit</item>
+        <item>Dorayaki</item>
+        <item>Ikan Sambalado</item>
+        <item>Kepiting Spicy</item>
+        <item>Lobster series</item>
+        <item>Mie Pangsit</item>
+        <item>Nasi Goreng Spesial</item>
+        <item>Roti Sandwich</item>
+        <item>Tumpeng Hari Jadi</item>
+        <item>Udang Krispy</item>
+    </string-array>
+    <string-array name="data_description">
+    <item>
+        <![CDATA[
+        Ayam Garing: Kekuatan dalam Kesederhanaan.
+        Di sebuah dapur tradisional Indonesia, kesederhanaan bertemu dengan kekuatan. Ayam Garing adalah hidangan klasik yang memukau dengan kelezatannya yang sederhana. Ini adalah campuran sempurna antara kerenyahan kulit yang renyah dan daging ayam yang lembut. Ayam, potongan demi potongan, disiapkan dengan cermat. Daging ayam ini dilumuri dengan garam dan merica, menciptakan fondasi rasa yang kuat. Kemudian, minyak sayur dipanaskan dalam wajan besar, dan potongan-potongan ayam digoreng hingga kulitnya menjadi kuning kecoklatan yang menggoda.
+        Di sisi lain, bumbu khas Ayam Garing, yang terdiri dari bawang putih, bawang merah, kunyit, ketumbar, dan kemiri, siap untuk mengisi dapur dengan aroma yang memikat. Bumbu-bumbu ini ditumis hingga harum, menciptakan dasar rasa yang kompleks dan menggoda. Ketika bumbu-bumbu ini siap, potongan ayam yang sudah digoreng dimasukkan ke dalam wajan, dan semuanya diaduk bersama dengan cermat. Daging ayam yang lembut menyerap bumbu-bumbu yang kaya, menciptakan perpaduan rasa yang tak terlupakan.
+        Akhirnya, Ayam Garing disajikan dengan nasi hangat. Ini adalah hidangan yang sederhana namun memukau, yang mengungkapkan kekuatan dalam kesederhanaannya. Ayam Garing bukan hanya hidangan, tetapi juga pengalaman cita rasa yang akan Anda ingat selamanya.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Bihun: Kanvasku Rasa yang Luar Biasa.
+        Dalam sebuah warung kecil yang nyaman di Indonesia, aroma harum dari bumbu dan saus mengisi udara. Ini adalah tempat di mana Bihun, hidangan yang menggugah selera, sedang dipersiapkan dengan penuh cinta. Bihun, seutas seutas, direbus dengan cermat sesuai petunjuk kemasan hingga mencapai kenyalitas yang sempurna. Kemudian, minyak sayur dipanaskan dalam wajan, dan bumbu saus yang sesuai selera, mulai dari saus tiram hingga saus pedas, ditumis dengan cermat.
+        Bahan pelengkap seperti sayuran segar dan daging lezat disiapkan untuk menambahkan dimensi rasa yang beragam. Setelah bumbu saus telah tercampur sempurna dan bahan pelengkap telah dimasak hingga matang, bihun yang telah direbus ditambahkan ke dalam wajan. Semuanya diaduk rata dengan bumbu dan bahan pelengkap, menciptakan sebuah kanvas rasa yang menggugah selera.
+        Bihun selalu cocok untuk semua selera dan merupakan pilihan yang ringan namun memuaskan. Keunikan bihun adalah kemampuannya untuk menyerap citarasa saus dan bumbu dengan sempurna, menciptakan harmoni rasa yang tak terlupakan. Ini adalah hidangan yang tidak hanya mengisi perut tetapi juga memanjakan indera Anda. Setiap gigitan membawa Anda lebih dalam ke dalam dunia rasa yang luar biasa.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Dorayaki: Kelembutan dalam Setiap Gigitan.
+        Di sudut sebuah dapur Jepang yang hangat, seorang koki sedang mempersiapkan adonan untuk Dorayaki. Dalam sebuah mangkuk, dia mencampur telur, gula, dan madu, kemudian menambahkan air ke dalam campuran tersebut. Tepung terigu dan baking powder diayak ke dalam campuran telur, dan semuanya diaduk hingga rata. Sebuah wajan anti lengket dipanaskan, dan adonan dorayaki dituangkan ke dalamnya, membentuk lingkaran kecil yang akan menjadi pancake.
+        Tunggu hingga permukaannya berlubang-lubang dan berbuih, lalu balik dan masak hingga kedua sisinya berwarna cokelat keemasan. Pancake dorayaki ini memiliki lapisan-lapisan yang empuk dan manis yang siap untuk diisi dengan selai merah, menciptakan perpaduan rasa yang sempurna. Selai merah yang manis dan kental mengisi setiap gigitan dengan kenikmatan, dan setiap gigitan adalah gigitan kebahagiaan yang selalu siap menggoda lidah Anda. Dorayaki adalah perpaduan rasa yang sempurna dan kelembutan dalam setiap gigitan.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Ikan Sambalado: Perpaduan Gurih dan Pedas.
+        Di daerah pesisir Indonesia yang indah, Ikan Sambalado adalah hidangan yang menjadi bukti bahwa Indonesia menguasai seni perpaduan rasa. Ini adalah perpaduan sempurna antara gurih, pedas, dan kelembutan. Potongan ikan yang digoreng dengan sempurna diselimuti dengan saus sambal yang menggoda selera. Rasanya meledak di mulut, memberikan Anda sensasi pedas yang membara yang seimbang dengan kelembutan daging ikan.
+        Potongan ikan, biasanya ikan kakap atau ikan laut lainnya, dibersihkan dan dicuci dengan hati-hati. Kemudian, ikan ini dilumuri dengan sedikit garam, menciptakan dasar rasa yang lezat. Di sisi lain, seorang koki sedang menyiapkan saus sambal yang akan menjadi bintang hidangan ini. Cabe, bawang merah, bawang putih, dan terasi ditumis hingga harum, menciptakan dasar rasa yang pedas dan gurih. Garam, gula, dan air jeruk limo ditambahkan sesuai selera, menciptakan saus sambal yang membara.
+        Ikan yang sudah digoreng dituangkan dengan saus sambalado yang menggoda, menciptakan perpaduan rasa yang luar biasa. Setiap gigitan adalah percampuran sensasi pedas, gurih, dan lembut yang membuat lidah Anda bergoyang. Hidangan ini adalah pilihan yang sempurna bagi pecinta makanan yang mencari tantangan rasa dan kelezatan yang luar biasa.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Kepiting Spicy: Petualangan Rasa yang Tak Terlupakan.
+        Di tepi pantai yang indah, seorang koki sedang mempersiapkan Kepiting Spicy yang legendaris. Kepiting yang empuk dan juicy dipisahkan dari cangkangnya dengan hati-hati. Sebuah wajan besar dipanaskan, dan bawang putih dan jahe yang telah dicincang halus ditumis hingga harum, mengeluarkan aroma yang menggoda.
+        Kepiting kemudian ditambahkan ke dalam wajan dan digoreng hingga berubah warna. Bumbu saus pedas seperti saus sambal, saus tomat, saus tiram, gula, dan garam ditambahkan sesuai selera. Semua bumbu ini diaduk rata dan dimasak hingga kepiting matang dan saus meresap ke dalam daging kepiting.
+        Setiap gigitan adalah percampuran sensasi pedas, gurih, dan lembut yang membuat lidah Anda bergoyang. Kepiting Spicy adalah petualangan rasa yang tak terlupakan, sebuah hidangan yang luar biasa yang selalu siap memanjakan selera Anda. Sajikan kepiting pedas ini dengan nasi hangat untuk pengalaman makan yang mendebarkan.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Lobster: Kehangatan dalam Kemewahan.
+        Di sebuah restoran mewah di pinggir pantai, seorang koki sedang mempersiapkan hidangan Lobster yang istimewa. Lobster segar, dengan dagingnya yang lembut, manis, dan melimpah, menjadi pusat perhatian. Lobster ini dipotong menjadi dua bagian memanjang dan bersihkan dengan hati-hati.
+        Mentega yang lezat dilelehkan dalam wajan, dan bawang putih cincang serta bumbu lainnya ditambahkan. Lobster dimasukkan ke dalam wajan dan dimasak hingga berubah warna dan dagingnya matang. Lobster ini kemudian disajikan dengan saus mentega yang lezat dan rempah-rempah yang segar di atasnya.
+        Setiap gigitan dari lobster ini adalah pengalaman yang penuh dengan kemewahan. Dagingnya yang lembut, manis, dan melimpah memanjakan lidah Anda, dan saus mentega yang kaya melengkapi setiap gigitan dengan sempurna. Lobster dapat disantap dengan berbagai cara, seperti dimasak dengan mentega, disajikan dengan saus lezat, atau bahkan menjadi bagian dari hidangan pasta yang menggugah selera. Ini adalah hidangan yang tidak hanya memanjakan rasa tetapi juga mata Anda.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Mie Pangsit adalah harmoni antara mie kenyal dan pangsit gurih. Di sebuah warung mie yang ramai, Mie Pangsit sedang dipersiapkan dengan teliti. Mie yang kenyal dipadukan dengan pangsit yang renyah menciptakan kombinasi tekstur yang sempurna. Kuah yang gurih dan berlimpah, bersama dengan pangsit yang diisi dengan daging lezat, membuat Mie Pangsit menjadi hidangan yang nikmat dan memuaskan.
+        Mie pangsit direbus sesuai petunjuk kemasan, menciptakan mie yang kenyal dan siap untuk dihidangkan. Pangsit yang diisi dengan daging lezat juga direbus hingga matang, kemudian dibiarkan mengering. Kaldu ayam atau sapi dipanaskan hingga mendidih, menciptakan dasar rasa yang kaya untuk hidangan ini.
+        Saat disajikan, Mie Pangsit disajikan dalam semangkuk kuah panas, dengan pangsit, sayuran segar seperti sawi, seledri, dan bawang goreng, serta kaldu yang berlimpah. Ini adalah harmoni antara mie kenyal dan pangsit gurih, menciptakan kombinasi tekstur yang sempurna. Setiap suapan membawa cita rasa yang menggugah selera, dan kuah yang hangat memberikan kenyamanan dalam setiap gigitan.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Nasi Goreng Spesial adalah paduan rasa yang sempurna. Di sebuah warung mie yang ramai, Mie Pangsit sedang dipersiapkan dengan teliti. Mie yang kenyal dipadukan dengan pangsit yang renyah menciptakan kombinasi tekstur yang sempurna. Kuah yang gurih dan berlimpah, bersama dengan pangsit yang diisi dengan daging lezat, membuat Mie Pangsit menjadi hidangan yang nikmat dan memuaskan.
+        Mie pangsit direbus sesuai petunjuk kemasan, menciptakan mie yang kenyal dan siap untuk dihidangkan. Pangsit yang diisi dengan daging lezat juga direbus hingga matang, kemudian dibiarkan mengering. Kaldu ayam atau sapi dipanaskan hingga mendidih, menciptakan dasar rasa yang kaya untuk hidangan ini.
+        Saat disajikan, Mie Pangsit disajikan dalam semangkuk kuah panas, dengan pangsit, sayuran segar seperti sawi, seledri, dan bawang goreng, serta kaldu yang berlimpah. Ini adalah harmoni antara mie kenyal dan pangsit gurih, menciptakan kombinasi tekstur yang sempurna. Setiap suapan membawa cita rasa yang menggugah selera, dan kuah yang hangat memberikan kenyamanan dalam setiap gigitan.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Roti Sandwich adalah hidangan yang selalu menjadi favorit semua orang.
+        Di sebuah kafe yang ramai, seorang barista sedang menyusun roti sandwich yang lezat. Dia memilih roti yang empuk, seperti roti tawar, roti gandum, atau roti lapis, dan memotongnya sesuai selera. Berbagai isian seperti daging, sayuran segar, keju yang meleleh, dan saus yang lezat sudah siap untuk dijadikan isian.
+        Isian roti disusun dengan cermat di atas satu potong roti, menciptakan kombinasi rasa yang memanjakan lidah Anda. Anda dapat menyesuaikan isian roti sesuai selera Anda, sehingga setiap gigitan selalu memberikan kejutan yang menyenangkan. Jika Anda menginginkan roti panas, Anda dapat menggorengnya dalam sedikit minyak sayur hingga kedua sisinya kecoklatan. Sajikan roti sandwich ini panas atau dingin sesuai selera Anda. Roti Sandwich adalah hidangan yang selalu menjadi favorit semua orang, karena kemudahan dalam persiapan dan beragam pilihan isian.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Tumpeng Nasi Kuning adalah simbol perayaan dan kebahagiaan dalam budaya Indonesia. Di sebuah perayaan yang meriah, sebuah Tumpeng Nasi Kuning disajikan sebagai pusat perhatian.
+        Nasi kuning yang diwarnai dengan kunyit dan santan dianggap sebagai simbol keberuntungan dan kesuburan dalam budaya Indonesia. Hidangan ini adalah simbol perayaan dan kebahagiaan dalam budaya Indonesia.
+        Nasi kuning dimasak dengan cara mencampurkan nasi dengan kunyit dan santan hingga warna kuning merata. Nasi ini kemudian disusun dalam bentuk kerucut di piring saji, menciptakan tampilan yang mengagumkan. Tumpeng Nasi Kuning dihias dengan berbagai pelengkap seperti telur, ayam goreng, tempe, tahu, sambal, dan lainnya mengelilingi tumpeng.
+        Sajikan Tumpeng Nasi Kuning sebagai hidangan istimewa dalam upacara perayaan Anda. Ini adalah cara yang meriah dan berkesan untuk merayakan prestasi, ulang tahun, pernikahan, dan momen-momen penting lainnya.
+        ]]>
+    </item>
+
+        <item>
+        <![CDATA[
+        Udang Krispy adalah makanan ringan yang selalu membuat selera Anda terjaga. Di sebuah pantai yang tenang, Udang Krispy adalah makanan ringan yang selalu membuat selera Anda terjaga.
+        Udang besar dicuci dengan hati-hati dan dikupas kulitnya, namun ekor tetap utuh. Udang ini kemudian digulingkan dalam tepung terigu, dicelupkan ke dalam telur yang telah dikocok, dan digulingkan dalam tepung roti hingga merata.
+        Minyak sayur dipanaskan dalam wajan, dan udang-udang krispy digoreng hingga kuning kecoklatan dan renyah. Setelah digoreng, udang krispy ini ditiriskan di atas kertas tisu untuk menghilangkan sisa minyak berlebih. Sajikan udang krispy ini dengan saus pilihan Anda, seperti saus sambal, saus tartar, atau saus lainnya.
+        Udang Krispy adalah camilan yang sempurna untuk dinikmati bersama teman atau keluarga, atau bahkan sebagai makanan pembuka dalam pesta. Udang yang digoreng dengan tepung crispy yang gurih membuat setiap gigitan menjadi pengalaman yang menggugah selera.
+        ]]>
+    </item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/ayam</item>
+        <item>@drawable/bihun</item>
+        <item>@drawable/dorayaki</item>
+        <item>@drawable/ikan</item>
+        <item>@drawable/kepiting</item>
+        <item>@drawable/lobster</item>
+        <item>@drawable/mie</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/roti</item>
+        <item>@drawable/tumpeng</item>
+        <item>@drawable/udang</item>
+    </integer-array>
+</resources>
